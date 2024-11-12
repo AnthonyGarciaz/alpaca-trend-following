@@ -1,0 +1,26 @@
+aiohttp
+alpaca-trade-api
+attrs
+certifi
+charset-normalizer
+deprecation
+frozenlist
+idna
+multidict
+numpy
+packaging
+pandas
+pillow
+python-dateutil
+python-dotenv
+pytz
+requests
+six
+tzdata
+urllib3
+websocket-client
+websockets
+yarl
+# dont be a bot, all you do is pip install pip install aiohttp alpaca-trade-api attrs certifi charset-normalizer deprecation frozenlist idna multidict numpy packaging pandas pillow python-dateutil python-dotenv pytz requests six tzdata urllib3 websocket-client websockets yarl
+# else
+#      Im-ah beat you if you say "it doesnt work" help me" bug report" kick rocks bro, go learn how to use an ide
